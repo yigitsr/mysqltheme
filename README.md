@@ -1,0 +1,2 @@
+# mysqltheme
+MySQL default theme
